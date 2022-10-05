@@ -1,3 +1,3 @@
 class PostTagsSerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :name
 end
